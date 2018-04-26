@@ -35,8 +35,10 @@
  */
 
 
+
 #if	!defined(LSOF_H)
 #define	LSOF_H	1
+
 
 #include "machine.h"
 

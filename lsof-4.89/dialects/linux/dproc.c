@@ -36,7 +36,7 @@ static char *rcsid = "$Id: dproc.c,v 1.29 2015/07/07 19:46:33 abe Exp $";
 #endif
 
 #include "lsof.h"
-
+#include <selinux/selinux.h>
 
 /*
  * Local definitions
