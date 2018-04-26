@@ -1,0 +1,1 @@
+x86_64-linux-android-clang -fPIE -fPIC --sysroot=/opt/toolchain/android-toolchain-x86_64-4.9-android-24/sysroot -I/home/itri-android/cba/htop-android/../lxc/android-libs/x86_64/include -pie -L/home/itri-android/cba/htop-android/../lxc/android-libs/x86_64/lib
