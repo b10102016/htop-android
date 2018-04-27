@@ -12,6 +12,14 @@ Including the following packages:
 in /odm/lib create a soft link for ncurses.so.6.0
 `ln -s libncurses.so.6.0 libncurses6.so` 
 
+## How to Run
+
+```
+export TERM=xterm
+export LD_LIBRARY_PATH=/odm/lib
+./htop
+```
+
 # Refference
 https://blog.csdn.net/alien75/article/details/52755299
 
