@@ -1,3 +1,7 @@
+# Download source code
+
+`git clone --recursive https://github.com/b10102016/htop-android.git`
+
 # htop-android
 Practise cross-compiling some tool for android.
 Including the following packages:
